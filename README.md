@@ -1,5 +1,6 @@
-<h1 align="center">Hola! 👋, mi nombre es Lua</h1>
-<h3 align="center">Soy un Full Stack Developer de 20 años, recientemente egresado del Coding Bootcamp de Plataforma 5, donde aprendí las tecnologías más demandadas de la industria IT</h3>
+<h1 align="center">Hola! 👋</h1>
+<h3 align="center">Mi nombre es Lua, soy un Full Stack Developer de 20 años recientemente egresado del Coding Bootcamp de Plataforma 5, lugar donde aprendí las tecnologías más demandadas de la industria IT y a trabajar con metodologías agiles tales como Scrum y Pair Programming.
+</h3>
 
 <h3 align="left">Contacto</h3>
 <p align="left">
