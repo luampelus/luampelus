@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋</h1>
-<h3 align="center">Mi nombre es Lua, Full Stack Developer recientemente egresado del Coding Bootcamp de Plataforma 5, lugar donde aprendí las tecnologías más demandadas de la industria IT y a trabajar con metodologías agiles tales como Scrum y Pair Programming.
+<h3 align="center">Mi nombre es Lua, Full Stack Developer recientemente egresado del Coding Bootcamp de Plataforma 5, lugar donde aprendí las tecnologías más demandadas de la industria IT, aquí podras ver los proyectos más importantes en los que he trabajado.
 </h3>
 
 <h3 align="left">Contactame</h3>
